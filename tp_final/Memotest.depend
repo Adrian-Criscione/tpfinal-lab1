@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1498852500 source:d:\users\acriscione\desktop 2\tp_final\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"CSYSTEM/csystem.h"
+	"funciones.h"
+	"validaciones.h"
+	"presentaciones.h"
+	"ejercicios.h"
+
+1497657398 d:\users\acriscione\desktop 2\tp_final\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1498852946 d:\users\acriscione\desktop 2\tp_final\funciones.h
+
+1498852500 d:\users\acriscione\desktop 2\tp_final\validaciones.h
+
+1498852946 d:\users\acriscione\desktop 2\tp_final\presentaciones.h
+	"CSYSTEM/csystem.h"
+
+1498852946 d:\users\acriscione\desktop 2\tp_final\ejercicios.h
+
+1498843777 source:c:\users\karl1988\dropbox\tp_memotest\tp_final\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"CSYSTEM/csystem.h"
+	"funciones.h"
+	"validaciones.h"
+	"presentaciones.h"
+	"ejercicios.h"
+
+1498833118 c:\users\karl1988\dropbox\tp_memotest\tp_final\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1498850309 c:\users\karl1988\dropbox\tp_memotest\tp_final\funciones.h
+
+1498846284 c:\users\karl1988\dropbox\tp_memotest\tp_final\validaciones.h
+
+1498843324 c:\users\karl1988\dropbox\tp_memotest\tp_final\presentaciones.h
+	"CSYSTEM/csystem.h"
+
+1498849000 c:\users\karl1988\dropbox\tp_memotest\tp_final\ejercicios.h
+
